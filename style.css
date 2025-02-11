@@ -19,6 +19,15 @@ background-color: mediumorchid;
     height: 100px;
     background-color: #ccc;
 }
+.logo{
+    width: 150px;
+    float: left; 
+    background-color: green;
+}
+.banner{
+    width:450px; 
+    float: left;
+}
 .menu{
     width: 600px;
     height: 50px;
@@ -29,6 +38,25 @@ background-color: mediumorchid;
     width: 600px;
     height: 400px;
     background-color: lavender;
+
+}
+.sidebar1{
+    width: 150px;
+    background-color: blue;
+    float: left;
+    height: 400px;
+}
+.content{
+    width: 300px;
+    background-color: blueviolet;
+    float: left;
+    height: 400px;
+}
+.sidebar2{
+    width: 150px;
+    background-color: blue;
+    float: left;
+    height: 400px;
 }
 .footer{
     width: 600px;
